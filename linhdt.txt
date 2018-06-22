@@ -1,3 +1,7 @@
 Do Tuan Linh
 19/05/1996
+<<<<<<< 485d5ac87e405eb8119fdc412d0be1344c0b37fc
 Dai Hoc Bach Khoa Ha Noi
+
+Dai hoc Bach Khoa Ha Noi
+>>>>>>> Version 2.0
